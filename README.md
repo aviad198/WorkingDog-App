@@ -1,2 +1,3 @@
 # WorkingDog-App
-App to keep work-life balance and keep track of your time
+App to keep work-life  and keep track of your time
+Add this new line
